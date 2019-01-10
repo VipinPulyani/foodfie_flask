@@ -1,0 +1,10 @@
+
+### Flask.Python Stack ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+config.py
+Lib/
+Include/
+tcl/
